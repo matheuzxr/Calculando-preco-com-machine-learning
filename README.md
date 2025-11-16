@@ -30,13 +30,15 @@ projeto-ml/
 ### 1. Instale as dependências (Poetry)
 ```bash
 poetry install
-
+```
 ### 2. Ative o ambiente virtual
+```bash
 poetry shell
-
+```
 ### 3. Execute o Streamlit
+```bash
 streamlit run app.py
-
+```
 ## 🧠 Descrição do modelo
 
 O algoritmo utilizado é uma Regressão Linear, treinada com os dados do arquivo:
